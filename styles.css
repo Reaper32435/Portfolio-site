@@ -66,7 +66,8 @@ nav{
 #girl{
     margin-left: -120px;
      /* change in height  */
-    height: 500px;
+    height: 450px;
+    margin-bottom: 70px;
 }
 .group1{
     position: absolute;
